@@ -67,7 +67,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/iamuput/NezukoMusic",
+        "value": "https://github.com/Teemsoha/LarinMusic",
         "required": true
       }
     },
